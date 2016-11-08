@@ -1,1 +1,1 @@
-let hello = () -> { console.log 'Hello 🙂' }
+let new = () -> { console.log 'This is a new function 🙂' }
